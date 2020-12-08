@@ -1,8 +1,6 @@
-1 Introduction
+**1 Introduction**
 
 Low6 Limited (“Low6”, “we”, “us”, “our”) of Low 6 Limited 1 Cranmore Drive, Shirley, Solihull, England, B90 4RZ. is committed to protecting and respecting your privacy. Low6 is committed to the protection of the personal data that we process in line with the data protection principles set out in the European Union General Data Protection Regulation 2016 (“GDPR”) and the Data Protection Act (2018).
-</p>
-
 
 This privacy notice explains what personal data we collect from individuals who use the Low6 App. It also explains what information we collect automatically when you use our App.
 
@@ -12,28 +10,35 @@ As an information-led business, we place great importance on ensuring the qualit
 
 We update this privacy notice from time to time in response to changes in applicable laws and regulations, to our processing practices and to the products and services we offer. When changes are made, we will update the date at the top of this document. Please review this privacy notice periodically to check for updates.
 
-2        What information do we process?
+**2 What information do we process?**
+
 Personal data is any information relating to an identified or identifiable natural person. We process the information you give us, whether through interactions with our app, our website or by any other form of correspondence.
 
-Information you provide to us
+**Information you provide to us**
 
 The categories of personal data we process include:
 
-Contact details (title/name/address/email address/phone number)
-Date of Birth
-Gender
-Bank details (name/account number/sort code)
-Any information you share through our social media channels
-Information we collect from you
+<ul>
+<li>Contact details (title/name/address/email address/phone number)</li>
+<li>Date of Birth</li>
+<li>Gender</li>
+<li>Bank details (name/account number/sort code)</li>
+<li>Any information you share through our social media channels</li>
+<li></li>
+</ul>
+
+**Information we collect from you**
 
 When you use our app, we may collect:
 
-Device details
-App login information
-App usage data
-Location data
-Information required for legal and regulatory compliance
+<li>Device details</li>
+<li>App login information</li>
+<li>App usage data</li>
+<li>Location data</li>
+<li>Information required for legal and regulatory compliance</li>
+
 We may use tools to personalise the user experience of our App, which may be disabled at any time using the Privacy Settings in the App or on your device.
 
-3        Purposes and bases for processing your personal data
+**Purposes and bases for processing your personal data**
+
 We may use your data for the following purposes and on the following lawful bases:
