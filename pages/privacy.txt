@@ -24,7 +24,6 @@ The categories of personal data we process include:
 <li>Gender</li>
 <li>Bank details (name/account number/sort code)</li>
 <li>Any information you share through our social media channels</li>
-<li></li>
 </ul>
 
 **Information we collect from you**
