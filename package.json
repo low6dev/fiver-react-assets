@@ -1,0 +1,19 @@
+{
+  "name": "fiver-react-assets",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish:npm": "set NODE_ENV=production && rimraf dist && mkdir dist && babel src/components -d dist --copy-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/low6dev/fiver-react-assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/low6dev/fiver-react-assets/issues"
+  },
+  "homepage": "https://github.com/low6dev/fiver-react-assets#readme"
+}
