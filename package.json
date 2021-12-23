@@ -1,10 +1,6 @@
 {
   "name": "fiver-react-assets",
-<<<<<<< HEAD
-  "version": "1.2.170",
-=======
   "version": "1.2.172",
->>>>>>> 1e1571b4fa9229b5de44145d3b4c4cfe1a689df9
   "description": "",
   "main": "index.js",
   "scripts": {
